@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kazukihata&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kazukihata&theme=tokyonight&column=7)](https://github.com/kazukihata/github-profile-trophy)
+
 
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kazukihata&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=kazukihata&theme=tokyonight)
