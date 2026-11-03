@@ -1,21 +1,25 @@
 ### Hi there 👋
 
-<!-- 1段目：基本統計（GitHub Stats）と言語の使用率（Top Langs）の横並び -->
+<!-- 1段目：基本統計と草の推移グラフ（Profile Summary Card） -->
 <p>
-  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=kazukihata&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazukihata&layout=compact&langs_count=8&count_private=true&theme=tokyonight" />
-</p>
-
-<!-- 2段目：連続草はやし記録（GitHub Readme Streak Stats） -->
-<p>
-  <a href="https://git.io/streak-stats">
-    <img alt="GitHub Streak" height="170px" src="https://streak-stats.demolab.com/?user=kazukihata&theme=tokyonight" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="Profile Details" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kazukihata&theme=tokyonight" />
   </a>
 </p>
 
-<!-- 3段目：草の推移グラフ（GitHub Readme Activity Graph） ※不要な場合はこのブロックを削除 -->
+<!-- 2段目：言語の使用率（左：リポジトリ数ベースの割合 / 右：コミット数ベースの割合） -->
 <p>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Kazuki Hata's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kazukihata&theme=tokyo-night&hide_border=false" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="Top Langs by Repo" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kazukihata&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img alt="Top Langs by Commit" height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kazukihata&theme=tokyonight" />
+  </a>
+</p>
+
+<!-- 3段目：連続草はやし記録（GitHub Readme Streak Stats） -->
+<p>
+  <a href="https://git.io/streak-stats">
+    <img alt="GitHub Streak" height="180px" src="https://streak-stats.demolab.com/?user=kazukihata&theme=tokyonight" />
   </a>
 </p>
